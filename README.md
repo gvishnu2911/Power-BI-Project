@@ -57,7 +57,7 @@ This Power BI dashboard presents a detailed analysis of mobile phone sales using
 **Vishnu Gupta**  
 📧 g.vishnu@gmail.com  
 📍 Surat, India  
-🔗 [GitHub Profile](https://github.com/yourusername) *(replace with your GitHub URL)*
+🔗 [GitHub Profile](https://github.com/gvishnu2911)
 
 ---
 
